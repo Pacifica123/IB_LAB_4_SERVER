@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="$ide.browser.jcef.gpu.disable$" id="9819d8d6-2e9f-4b22-97b2-de321275fb5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IB_LAB_4_SERVER.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/observer_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$ide.browser.jcef.gpu.disable$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fotyAak0BmUT3EDP2xXgO4CfOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="$ide.browser.jcef.gpu.disable$" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="$ide.browser.jcef.gpu.disable$" />
+    <option name="showLibraryContents" value="$ide.browser.jcef.gpu.disable$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="$ide.browser.jcef.gpu.disable$" nameIsGenerated="$ide.browser.jcef.gpu.disable$">
+      <module name="IB_LAB_4_SERVER" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="$ide.browser.jcef.gpu.disable$" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="ADD_CONTENT_ROOTS" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="ADD_SOURCE_ROOTS" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="$ide.browser.jcef.gpu.disable$" nameIsGenerated="$ide.browser.jcef.gpu.disable$">
+      <module name="IB_LAB_4_SERVER" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="$ide.browser.jcef.gpu.disable$" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="ADD_CONTENT_ROOTS" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="ADD_SOURCE_ROOTS" value="$ide.browser.jcef.gpu.disable$" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="$ide.browser.jcef.gpu.disable$" transferred="$ide.browser.jcef.gpu.disable$" />
+  <component name="TaskManager">
+    <task active="$ide.browser.jcef.gpu.disable$" id="Default" summary="Default task">
+      <changelist id="9819d8d6-2e9f-4b22-97b2-de321275fb5f" name="Changes" comment="" />
+      <created>1714479509510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714479509510</updated>
+    </task>
+    <servers />
+  </component>
+</project>
